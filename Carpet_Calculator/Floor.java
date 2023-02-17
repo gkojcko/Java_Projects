@@ -17,9 +17,7 @@ public class Floor {
             this.length = 0;
         }
     }
-    Floor(){
 
-    }
 
     public double getWidth() {
         return width;
